@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         <h5>Por favor, tente novamente.</h5>`;
         throw new Error("Nenhum conselho encontrado. Por favor, tente novamente.");        
       }
-
+ 
       //EXEMPLO DE RETORNO DA API
       //{"slip": { "id": 27, "advice": "Don't wear clean trousers when walking your dog in the park."}}
 
